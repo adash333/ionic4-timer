@@ -1,12 +1,20 @@
 <ion-header>
-  <ion-toolbar>
+  <ion-toolbar color="primary">
     <ion-title>
-      Ionic Blank
+      Ionic4 Timer
     </ion-title>
   </ion-toolbar>
 </ion-header>
-
+ 
 <ion-content padding>
-  The world is your oyster.
-  <p>If you get lost, the <a target="_blank" rel="noopener" href="https://ionicframework.com/docs/">docs</a> will be your guide.</p>
+  <ion-card color="dark">
+    <img src="assets/img/sakura.jpg">
+    <ion-card-content align="center">
+      <h1>{{ timer }}</h1>
+    </ion-card-content>
+  </ion-card>
+ 
+  <ion-button expand="block" color="{{ default }}" (click)="startStop()">
+    {{ startButton }}
+  </ion-button>
 </ion-content>
