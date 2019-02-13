@@ -4,7 +4,7 @@
 
 作成経過は以下に記載しています。
 
-[onic4でタイマーアプリ](http://i-doctor.sakura.ne.jp/web/doku.php?id=00.ionic4:08.ionic4%E3%81%A7%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC%E3%82%A2%E3%83%97%E3%83%AA)
+[Ionic4でタイマーアプリ](http://i-doctor.sakura.ne.jp/web/doku.php?id=00.ionic4:08.ionic4%E3%81%A7%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC%E3%82%A2%E3%83%97%E3%83%AA)
 
 Netlifyにデプロイしたものは、以下になります。
 
